@@ -38,5 +38,8 @@ It depends on your network interface: ETH0 or WLAN0.
 
 Then connect your other device with vlc and it should work 
 
+To test the streaming server from a remote host (from the same LAN), you can use this address: rtsp://<ip-of-rpi-streaming-server>:8554/ in a VLC (Media->Open Network Stream...->Network) running in the remote host.
+
+
 :)
 
